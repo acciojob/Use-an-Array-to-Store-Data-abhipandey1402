@@ -1,1 +1,3 @@
-let yourArray = ['String', 1, true, 'great', 5];
+let yourArray = ['String', 1, true, false, 'great', 5, null];
+
+console.loh(yourArray.length);
